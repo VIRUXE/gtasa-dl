@@ -1,6 +1,7 @@
 [package]
-name = "gtasa-downloader"
+name    = "gtasa-downloader"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+check_elevation = "0.2.4"
