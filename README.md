@@ -2,10 +2,6 @@
 
 ![image](https://github.com/VIRUXE/gtasa-dl/assets/1616657/30d37642-ada4-49f7-b943-eb4dfdd084bb)
 
-# GTASA Downloader
-
-![image](https://github.com/VIRUXE/gtasa-dl/assets/1616657/30d37642-ada4-49f7-b943-eb4dfdd084bb)
-
 ## Introduction
 
 This downloader aims to make it effortless for anyone to have a portable copy of the game, along with *SA-MP*, an *ASI loader* (for your varied scripts), and *SAMPCAC* (SA-MP Client Anti-Cheat, which is discontinued but still works fine and is better than nothing...).
