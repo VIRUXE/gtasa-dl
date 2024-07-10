@@ -77,7 +77,7 @@ fn install_7zip() -> bool {
         .expect("Failed to execute winget");
 
     let output_str = String::from_utf8_lossy(&output.stdout);
-    output_str.contains("Found an existing package already installed")
+    !output_str.contains("Found an existing package already installed")
 }
 
 fn check_directx_installed() -> bool {
