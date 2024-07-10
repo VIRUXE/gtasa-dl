@@ -1,5 +1,7 @@
 # GTASA Downloader
 
+![image](https://github.com/VIRUXE/gtasa-dl/assets/1616657/30d37642-ada4-49f7-b943-eb4dfdd084bb)
+
 ## Introduction
 
 This downloader aims to make it effortless for anyone to have a portable copy of the game, along with *SA-MP*, an *ASI loader* (for your varied scripts) and *SAMPCAC* (SA-MP Client Anti-Cheat, which is discontinued, but still works fine and is better than nothing...)
@@ -33,10 +35,11 @@ So if it doesn't work the first time, open the command prompt and run `winget in
 
 ## How it works
 
-1. Downloads a 7Zip archive ("gtasa.7z") to the same directory as the executable
-2. Asks you for a directory name (press enter for the default to be used - "GTA San Andreas") to where it will decompress the game archive, equally, to the same directory as the executable.
-3. Decompresses the archive onto the specified directory.
-4. Adds an exception/exclusion to *Windows Defender*, in order for *SAMPCAC*'s ASI script not to be removed.
-5. Downloads "sampcac_client.asi"
+1. You open the executable as **Administrator**
+2. Downloads a 7Zip archive ("gtasa.7z") to the same directory as the executable
+3. Asks you for a directory name (press enter for the default to be used - "GTA San Andreas") to where it will decompress the game archive, equally, to the same directory as the executable.
+4. Decompresses the archive onto the specified directory.
+5. Adds an exception/exclusion to *Windows Defender*, in order for *SAMPCAC*'s ASI script not to be removed.
+6. Downloads "sampcac_client.asi"
 
 The game archive will remain so it can be reused the next time you want a fresh installation or if you want to store it for yourself.
