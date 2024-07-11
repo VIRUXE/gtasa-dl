@@ -33,11 +33,12 @@ It might not work alongside other ASI scripts. (It didn't work for me when tryin
 
 ## How it works
 
-1. You open the executable as **Administrator**.
-2. Downloads a 7Zip archive ("gtasa.7z") to the same directory as the executable.
-3. Asks you for a directory name (press enter for the default to be used - "GTA San Andreas") to where it will decompress the game archive, equally, to the same directory as the executable.
-4. Decompresses the archive into the specified directory.
-5. Adds an exception/exclusion to *Windows Defender* to prevent *SAMPCAC*'s ASI script from being removed.
-6. Downloads "sampcac_client.asi".
+After opening the executable as **Administrator**, the app:
+
+1. Downloads a 7Zip archive ("gtasa.7z") to the same directory as the executable.
+2. Asks you for a directory name (press enter for the default to be used - "GTA San Andreas") to where it will decompress the game archive, equally, to the same directory as the executable.
+3. Decompresses/extracts the archive into the specified directory.
+4. Adds an exception/exclusion to *Windows Defender* to prevent *SAMPCAC*'s ASI script from being removed.
+5. Downloads "sampcac_client.asi".
 
 The game archive will remain so it can be reused the next time you want a fresh installation or if you want to store it for yourself.
