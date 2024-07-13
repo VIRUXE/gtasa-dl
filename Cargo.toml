@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 check_elevation = "0.2.4"
+rust-lzma = "0.6.0"
