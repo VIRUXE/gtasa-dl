@@ -1,5 +1,8 @@
 # GTASA Downloader
 
+> ⚠️ **Warning:** The subdomain hosting the 7z archive of the game is no longer available.  
+> This downloader will no longer work as intended. Consider this project obsolete.
+
 ![image](https://github.com/VIRUXE/gtasa-dl/assets/1616657/30d37642-ada4-49f7-b943-eb4dfdd084bb)
 
 ## Introduction
