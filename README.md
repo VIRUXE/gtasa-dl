@@ -4,6 +4,10 @@
 > The subdomain hosting the 7z archive of the game is no longer available.  
 > This downloader will no longer work as intended. Consider this project obsolete.
 
+> [!NOTE]
+> Visit [Scavenge and Survive's server list](https://scavengesurvive.com/servers/), and join the Discord server for each game server.
+> You may find a way to download it.
+
 ![image](https://github.com/VIRUXE/gtasa-dl/assets/1616657/30d37642-ada4-49f7-b943-eb4dfdd084bb)
 
 ## Introduction
